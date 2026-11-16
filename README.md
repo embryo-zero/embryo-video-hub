@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Video Hub
+
+**Embryo Video Hub** is Embryo-Zero's fork of [PeerTube](https://github.com/Chocobozzz/PeerTube), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <h1 align="center">
   <a href="https://joinpeertube.org">
     <img src="https://joinpeertube.org/img/brand.png" alt="PeerTube">
